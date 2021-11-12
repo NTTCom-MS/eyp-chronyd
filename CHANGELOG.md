@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.2
+
+* improved compatibility
+	
 ## 0.2.1
 
 * changed minsources default value to 1
